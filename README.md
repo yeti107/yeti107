@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @yeti107
-- 👀 I’m interested in anything to do with games
-- 🌱 I’m currently learning JavaScript and C++
+
 
 
 <!---
